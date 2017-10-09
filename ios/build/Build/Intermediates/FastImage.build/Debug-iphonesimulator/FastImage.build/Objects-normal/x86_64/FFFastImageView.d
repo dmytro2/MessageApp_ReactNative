@@ -1,0 +1,26 @@
+dependencies: \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.m \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/UIImageView+WebCache.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/SDWebImageCompat.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/SDWebImageManager.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/SDWebImageOperation.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/SDWebImageDownloader.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/SDImageCache.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/SDWebImage/SDImageCacheConfig.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/FLAnimatedImage/FLAnimatedImage/FLAnimatedImageView.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/FastImage/FFFastImageSource.h

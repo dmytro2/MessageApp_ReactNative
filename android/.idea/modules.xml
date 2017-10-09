@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MessageApp.iml" filepath="$PROJECT_DIR$/MessageApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/react-native-image-resizer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-notifications/android/react-native-notifications.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-notifications/android/react-native-notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d48aaadaefa2b70a94b48de4addc368eed26699e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_7930a58a3dd96bdfd164bbb2aef0d9a44665b5e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_0f53c57ba67245c7571d8cf6f051eac1770533bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_b34a1e53eed22f96da16ea3ce8f0249cf9b3985c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_d63dc6662ad1e8711ecdb7ea4f7b66a56972b078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/MessageApp/react-native-fast-image/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c7b50862b94435bdb5fe880290751d5c93a2f44">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-fast-image-unspecified_55cc1f551f15612222abff300de39dbd919cebd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_937e5222623379f61619d418813700144065307d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_e29b789dee06914e4e861254044f7991616beebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_761adf035ed92b435d365a5ccff7f268f6a901df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_d2773e998077f4070dbfa288d05e58b6971181e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_94c70631bd09e91f0ea5c195f7d476e66683f41f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_cdb26ea12a580952ca6f76b72717ec39fa0f4f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/MessageApp/react-native-notifications/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7c86c42a06567da3ada6c9d5c2c22e08d42dad2">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-notifications-unspecified_30d028e6c978a56da0a8a917d411413838a5ba4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_961c1a465710acfb5e3ee86bc1a2a30a2f3f851b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0f5b1a3e8b9abdd46c038d36ec21de86f9428e9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9891041668f8f6f8a76d0dd63a438a617aff22c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_1208f9af18e4f1847c8d4254f75a5df6e510915e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/glide-3.8.0_e99dabd05d767473309dd217835af4fd66fb1dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_a3f154f5613f6648084c2a1f1fe0573ef2db101f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_e4dbc943b500e45a38f4b9aea63794d17ed62d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_7b55f3d9acfc7079cb40a2acce5d129b87fc9fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_da7eecde0fa2a579a49a0a92ed6465bd57f52e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/MessageApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-vector-icons-unspecified_c41a4730b094149cb77d94a1bff15711f37b652f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a7c41360b2c66d225caa6a35477922d301073d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7d27d2eb9de9ce01fb5f5aed62f72c6e6f61426b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_16e33d711c47eb4a531d0234d265ee2961d58a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/MessageApp/react-native-image-resizer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2792a3e3e62b61cfd680be8f2e043417de90a09d">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-image-resizer-unspecified_bf34b5b46512358eea9ac4ecaae0f0718ea5058f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_d4fa81677101d5b9525681e52a4b222f32921aad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_64277cfd28e0b0cd675de4473c6240cf6cac93c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_a3a3e8720df065bb5eb50e0e6006aa16f373e478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/MessageApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-vector-icons-unspecified_d5600b912bdc0744f75ed699d5af16cff5f6c4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1f954f068721c86c4cd1be670302e7d69cd1a069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8c45683aa723bed43c64fe5bad2f0d4a6528fc32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.1_105440178e1eda16daa3a08bf119138043aba4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_a3b096f9ada616570837e34459f0f6b08d63ecb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_5dc45925d97859fb016476a0630a27a1948599b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.1_b111773cfdc26b07ec2ce9fb5823a04534d9543d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/DATA2/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_a6c8ecee38546f7328598388dd88fc4209c39632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/MessageApp/react-native-notifications/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c92eb93bed39a9aaab122305b24aa7e7cce906eb">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-notifications-unspecified_ed2c53db088ea68e3f42d1d1347c91fe3b17a818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_462d2f6975815ee1cf85653866595b4dfdd5fc61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_21f5511a5d08cb27aee0e4be7a59b84fb4400362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_d245628759a45fc8a2f9230602927481673d0195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/MessageApp/react-native-image-resizer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2792a3e3e62b61cfd680be8f2e043417de90a09d">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-image-resizer-unspecified_e33209adb34a29b688cad247e645c98ba7b70af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cd8fe2fd233a5bf2a26abc43db23eb8c9594af89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/MessageApp/react-native-fast-image/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c7b50862b94435bdb5fe880290751d5c93a2f44">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/MessageApp-react-native-fast-image-unspecified_e0507db4abab93f5128931bcab43cf4b89585407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_cc8bd3748ae688b9600eac5287fa7832251266a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_a80cbb079cb241f929b5ef61922b555bc5cd3b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_344075e63cfd6b95843922b2277f8973ddda55a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_31df4d8a1335356bb64524a40ec245692f8b242d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_edb065e0e894a3f8e97daef5a9fa93b7ee4a06df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_41b2b423fae2b5626e53ae21fce97a47f6f5c585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_435e7d2c1ff1cb472ca673f1f01d2b71b4966849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/1.5.0/1e5d1f5fb6f867397009e73ea79b108ef6a51fc0/okhttp3-integration-1.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e5d1f5fb6f867397009e73ea79b108ef6a51fc0">
+        <dex dex="/Volumes/Work/Work/MsgApp/source/Messaging-App-Front-end-master/android/app/build/intermediates/pre-dexed/debug/okhttp3-integration-1.5.0_dbb357d6b3db8ff1dc6a7ebb1bdb3a668f463996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_a71b69a66650f3367bf34e24f42602f76ade6fb8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+dependencies: \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/vp8l.c \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./alphai.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./webpi.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/rescaler.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../webp/types.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./decode_vp8.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../webp/decode.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/filters.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/dsp.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/./vp8li.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/bit_reader.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/color_cache.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/huffman.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../webp/format_constants.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../dsp/lossless.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../enc/histogram.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../enc/./backward_references.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/../dsp/../utils/utils.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../dsp/yuv.h \
+  /Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/libwebp/src/dec/../utils/endian_inl.h

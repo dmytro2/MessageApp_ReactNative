@@ -1,0 +1,24 @@
+- cmd to clear react native build:
+rm -rf ios/build/; kill $(lsof -t -i:8081)
+
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dhdaveid/Messaging-App.git
+git push -u origin master
+
+git add .
+git commit -m ""
+git push -u origin master
+
+/Work/MessageApp/MessageApp/node_modules/react-native-
+/Work/MessageApp/MessageApp/node_modules/react-native-notifications/RNNotifications
+
+
+watchman wat-del-all
+
+rm -rf node_modules&&npm install
+
+
+rm -fr $TMPDIR/react-*
+
+react-native run-ios

@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/FLAnimatedImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FLAnimatedImage-Swift.h",
+          'external-contents': "/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/FLAnimatedImage.framework/Headers/FLAnimatedImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLAnimatedImage.h",
+          'external-contents': "/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/FLAnimatedImage/FLAnimatedImage/FLAnimatedImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "FLAnimatedImageView.h",
+          'external-contents': "/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/node_modules/react-native-fast-image/ios/Vendor/SDWebImage/Vendors/FLAnimatedImage/FLAnimatedImage/FLAnimatedImageView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Products/Debug-iphonesimulator/FLAnimatedImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Work/Work/MsgApp/Messaging-App-Front-end/ios/build/Build/Intermediates/FLAnimatedImage.build/Debug-iphonesimulator/FLAnimatedImage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
