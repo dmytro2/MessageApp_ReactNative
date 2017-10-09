@@ -2,7 +2,7 @@
 
 This repo implements the messaging app front end for both iOS and Android.
 
-![iOS Login Screen](front.png)
+
 
 ## Setup
 
